@@ -1,9 +1,9 @@
 {
     "appName": "ComponentCounter",
     "description": "Tracks materials as they appear in the chat box.",
-    "appUrl": "https://github.com/bryceacc/componentTracker",
-    "configUrl": "https://github.com/bryceacc/componentTracker/appconfig.json",
-    "iconUrl": "https://github.com/bryceacc/componentTracker/ZG.jpg",
+    "appUrl": "https://bryceacc.github.io/componentTracker",
+    "configUrl": "https://bryceacc.github.io/componentTracker/appconfig.json",
+    "iconUrl": "https://bryceacc.github.io/componentTracker/ZG.jpg",
     "defaultWidth": 197,
     "defaultHeight": 236,
     "requestHandlers": [],
