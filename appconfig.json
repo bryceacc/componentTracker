@@ -1,9 +1,9 @@
 {
     "appName": "ComponentCounter",
     "description": "Tracks materials as they appear in the chat box.",
-    "appUrl": "https://zerogwafa.github.io/ComponentCounter",
-    "configUrl": "https://zerogwafa.github.io/ComponentCounter/appconfig.json",
-    "iconUrl": "https://zerogwafa.github.io/ComponentCounter/ZG.jpg",
+    "appUrl": "https://github.com/bryceacc/componentTracker",
+    "configUrl": "https://github.com/bryceacc/componentTracker/appconfig.json",
+    "iconUrl": "https://github.com/bryceacc/componentTracker/ZG.jpg",
     "defaultWidth": 197,
     "defaultHeight": 236,
     "requestHandlers": [],
