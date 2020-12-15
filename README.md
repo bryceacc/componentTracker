@@ -2,7 +2,7 @@
 
 Install with this link (Alt1 Required): 
 
-alt1://addapp/https://github.com/bryceacc/componentTracker/appconfig.json
+alt1://addapp/https://bryceacc.github.io/componentTracker/appconfig.json
 
 Tracks Invention materials from the following sources:
 - Standard Dissassembling
